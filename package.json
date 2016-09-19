@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-udid",
+  "version": "1.0.0",
+  "description": "Cordova UDID Plugin",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/centrual/cordova-plugin-udid"
+  },
+  "keywords": [
+    "cordova",
+    "device",
+    "udid",
+    "uuid",
+    "id",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": {
+    "cordovaDependencies": {
+      "1.0.0": {
+        "cordova-android": ">=4.1.2"
+      }
+    }
+  },
+  "author": "Oğuz Özcan",
+  "license": "MIT"
+}
