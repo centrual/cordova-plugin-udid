@@ -1,13 +1,14 @@
-#Cordova UUID Plugin
+#Cordova UDID Plugin
 
 ###Supports: Android, IOS( on the way )
 
 This plugin returns UDID (User Device ID) for identify users.
 
+This number never change on same phone-tablet etc.
 
 ```
-> cordova plugin add cordova-plugin-uuid
-> uuid.getUuid() => ffffffff-f5c3-b7ec-0000-00003aa4XXXX
+> cordova plugin add cordova-plugin-udid
+> udid.getUdid() => ffffffff-f5c3-b7ec-0000-00003aa4XXXX
 ```
 
 
